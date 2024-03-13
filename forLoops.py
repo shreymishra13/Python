@@ -12,7 +12,7 @@ i=0
 
 # for fruit in fruits:
 #     for char in fruit:
-#         print(char," ")
+#     stat    print(char," ")
         
         
 
