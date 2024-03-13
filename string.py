@@ -41,3 +41,9 @@ print(str.isupper())
 s= "I am replacing a in this sentence"
 print(s.replace("a", 'b'))
 print(s)
+
+
+#using for looop to print each char
+
+for char in str:
+    print(char)

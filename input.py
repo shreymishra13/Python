@@ -1,2 +1,6 @@
-name = input("Enter your name : ")
-print("My name is :  ",name)
+sum=10
+number=0
+for i in range(1,10,2):
+    print(i)
+    sum+=number
+print(sum)
