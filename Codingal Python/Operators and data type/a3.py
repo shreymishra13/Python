@@ -12,5 +12,5 @@ word = 'Coding'
 print("Length of String :", len(word))
 print("First Letter of String :", word[0])
 print("Last Letter of String :", word[5])
-print("String Sliced :", word[0:3])
+print("String Sliced :", word[0:4])
 
