@@ -10,6 +10,8 @@ print("String Multiplied 5 times gives this result :", example)
 
 word = 'Coding'
 print("Length of String :", len(word))
+print("Length of String :", word.upper())
+print("Length of String :", word.lower())
 print("First Letter of String :", word[0])
 print("Last Letter of String :", word[5])
 print("String Sliced :", word[0:4])
